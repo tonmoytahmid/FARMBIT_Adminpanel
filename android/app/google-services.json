@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "925808342421",
+    "firebase_url": "https://frambit-io-default-rtdb.firebaseio.com",
+    "project_id": "frambit-io",
+    "storage_bucket": "frambit-io.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925808342421:android:7d39a44bb5d6c5de07329c",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925808342421-k7av64uraop4bcr71sj8hej7nubreq1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFF0_kcDBhDzy-HubZK7sWgVdEaffBpS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925808342421-k7av64uraop4bcr71sj8hej7nubreq1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925808342421-2rl1h14l58vmptj78ofmejkllk0or5pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925808342421:android:1bdc878c59c560e007329c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925808342421-uru1d5j5i4ck16v86gbbkbep24cale47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_2",
+            "certificate_hash": "e1bf0595de4e4fe279125724263998e48a2b84f4"
+          }
+        },
+        {
+          "client_id": "925808342421-k7av64uraop4bcr71sj8hej7nubreq1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFF0_kcDBhDzy-HubZK7sWgVdEaffBpS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925808342421-k7av64uraop4bcr71sj8hej7nubreq1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925808342421-2rl1h14l58vmptj78ofmejkllk0or5pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925808342421:android:d5b35a85a8b49c5007329c",
+        "android_client_info": {
+          "package_name": "com.frambit.jarif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925808342421-9tiv6t9jlo2665jqv0t5i8jkuibgulue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frambit.jarif",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "925808342421-k7av64uraop4bcr71sj8hej7nubreq1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFF0_kcDBhDzy-HubZK7sWgVdEaffBpS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925808342421-k7av64uraop4bcr71sj8hej7nubreq1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925808342421-2rl1h14l58vmptj78ofmejkllk0or5pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
