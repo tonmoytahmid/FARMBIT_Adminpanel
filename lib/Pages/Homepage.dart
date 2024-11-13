@@ -17,7 +17,7 @@ class _UploadProductState extends State<UploadProduct> {
     'Service Based',
     'Client Acquisition',
     'Simple Business Ideas',
-    'Unicorn',
+    'E-Com',
     'Digital Product'
   ];
 
